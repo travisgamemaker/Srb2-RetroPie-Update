@@ -1,6 +1,6 @@
 # Sonic Robo Blast 2
 
-Will Updae Source code and assets when relesed to keep game up-to-day
+Will Update Source code and assets when released to keep game up-to-date (if i don't forget to do so)
 Coded by AirysDark
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
